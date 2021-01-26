@@ -1,7 +1,7 @@
 # SkyStats
 Website to monitor Hypixel Skyblock Player with the use of the API
 
-###Require :
+### Require :
 `node` and `npm`
 to launch the website type `npm test` in the command line from the repo folder
 
