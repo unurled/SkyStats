@@ -1,0 +1,19 @@
+{
+  "name": "skystats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unurled/SkyStats.git"
+  },
+  "author": "unurled",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unurled/SkyStats/issues"
+  },
+  "homepage": "https://github.com/unurled/SkyStats#readme"
+}
